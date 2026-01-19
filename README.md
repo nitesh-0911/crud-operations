@@ -1,2 +1,12 @@
-# crud-operations
-a backend project like twitter backend with CRUD operations
+# simple backend project to learn
+
+## this is like twitter backend
+
+technologies used for login, signup
+
+- express
+- jsonwebtoken
+- cookie-parser
+- mongoose
+- mongoDB
+- dotenv
